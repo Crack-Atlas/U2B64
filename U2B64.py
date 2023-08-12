@@ -50,7 +50,7 @@ class MyHandler(http.server.BaseHTTPRequestHandler):
  <meta http-equiv="X-UA-Compatible" content="ie=edge">
  <title>U2B64</title>
 </head>
-<body bgcolor='black'>
+<body>
 <center> 
 <div class='filec'> 
                 <form action="/upload" method="post" enctype="multipart/form-data">
